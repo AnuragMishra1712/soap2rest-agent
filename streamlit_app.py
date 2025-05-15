@@ -91,7 +91,7 @@ if st.button("🔍 Compare SOAP vs REST"):
     soap_currency, soap_raw = get_soap_response(country_code)
     rest_currency, rest_raw = get_rest_response(country_code)
 
-    col1, col2 = st.beta_columns(2)  # ✅ Works in older versions
+    col1, col2 = st.columns(2)  
 
 
     with col1:
