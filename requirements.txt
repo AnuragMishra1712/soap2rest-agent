@@ -1,0 +1,5 @@
+openai  # for OpenAI-compatible API interface, if needed later
+lxml     # For parsing SOAP XML
+tqdm     # For progress tracking if needed
+flask
+requests
