@@ -1,4 +1,4 @@
-# 🧠 SOAP to REST Converter (AI-powered with Mistral & Ollama)
+# 🧠 SOAP to REST Converter (AI-powered with Ollama)
 ![Demo Screenshot](Appview.png)
 
 This project demonstrates how an open-source AI agent (powered by Mistral via Ollama) can intelligently **convert a SOAP API** definition into an equivalent **RESTful Flask API**, and validate functional equivalence between the two.
